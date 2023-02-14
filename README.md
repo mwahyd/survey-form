@@ -15,4 +15,4 @@ Objectives:
 2. make the webpage responsive and visually pleasing
 
 
-- 1st form app
+NOTE: 1st form app
