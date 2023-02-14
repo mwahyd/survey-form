@@ -1,6 +1,6 @@
 # Survey Form
 
-[Live Web App](https://mwahyd.github.io/survey-form/)
+[Demo](https://mwahyd.github.io/survey-form/)
 
 Objectives:
 
